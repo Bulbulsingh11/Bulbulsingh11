@@ -5,6 +5,8 @@
 
 ### 👋 Hi there
 BCA (AI & DS) student exploring ML, MLOps, Python, Java, C++ — building real projects and learning in public.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bulbul%20Singh%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bulbul-singh-chauhan/)
+
 
 <!-- Stats row -->
 <p align="center">
@@ -17,8 +19,21 @@ BCA (AI & DS) student exploring ML, MLOps, Python, Java, C++ — building real p
 - Dev-coach-AI — AI companion for structured growth (TypeScript) • features, stack, demo
 - SIH 2025 prototype — problem, approach, screenshots
 
-### 🧰 Toolbox
-Python · Java · C++ · scikit-learn · FastAPI · Docker · GitHub Actions
+### 🧰 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💼 Experience
+- React.js Developer Intern — TEN (3 months): built and shipped React components, optimized state management, and improved UI responsiveness across pages.
+
+
 
 <!-- Optional trophy (single row) -->
 <p align="center">
@@ -26,8 +41,3 @@ Python · Java · C++ · scikit-learn · FastAPI · Docker · GitHub Actions
 </p>
 
 <!-- Snake animation (bottom) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bulbulsingh11/Bulbulsingh11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bulbulsingh11/Bulbulsingh11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bulbulsingh11/Bulbulsingh11/output/github-contribution-grid-snake.svg">
-</picture>
