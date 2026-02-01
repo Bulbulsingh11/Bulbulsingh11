@@ -1,83 +1,111 @@
-<p align="center">
-<img src="https://img.shields.io/badge/BULBUL%20SINGH%20CHAUHAN-8A2BE2?style=for-the-badge&logo=notion&logoColor=white&labelColor=0D1117" alt="Neon Banner">
-</p>
+👋 hey, i'm bulbul 👩‍💻✨
 
-<div align="center">
+🎓 bca (ai & data science) • 2nd year
+🧠 aspiring ai engineer
+🐍 python • 🤖 ml • 🔗 api integration • 🧩 dsa
+📍 gurugram, india
 
-# 🔥 BULBUL SINGH CHAUHAN 🔥
-**2nd Year BCA AI/DS • ML Engineer • React Ninja**
+🚀 about me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY0czVydXlyZGh3eXJ3Z3I1Z3g5Z3k1dDV1bXJ2a3J5d3R4d3R4dA6c/giphy.gif" width="50" alt="Fire">
-**Currently shipping:** Dev-coach-AI • Sehat Saathi • React MVPs
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g5Z3k1dDV1bXJ2a3J5d3R4d3R4dA6c/giphy.gif" width="50" alt="Fire">
+i'm building myself into a real ai engineer — not just someone who pastes api keys and calls it ai.
 
-</div>
+what i actually care about:
 
-## 🌈 CURRENTLY @ 
-🎓 KR Mangalam University (BCA AI/DS 2nd Year)
-💼 TEN React Intern (Shipped 5+ components 🚀)
-🏆 SIH 2025 HealthTech Finalist 🏅
-💻 Freelance React/Webflow/AWS Developer
+writing clean python
 
-text
+understanding how models work (not just using them)
 
-## 🛠️ TECH STACK (What I Ship)
-<table>
-<tr>
-<th><b>🥇 LEGENDS</b></th>
-<th><b>🚀 DAILY GRIND</b></th>
-<th><b>💎 HIDDEN GEMS</b></th>
-</tr>
-<tr>
-<td>🐍 Python</td>
-<td>⚛️ React/Next.js</td>
-<td>☁️ AWS (EC2/S3)</td>
-</tr>
-<tr>
-<td>☕ Java</td>
-<td>📱 React Native</td>
-<td>🐳 Docker</td>
-</tr>
-<tr>
-<td>⚡ C++ (CP Beast)</td>
-<td>⚡ Node/Express</td>
-<td>🗄️ MongoDB</td>
-</tr>
-</table>
+getting strong at dsa for logic + interviews
 
-## 🚀 HOT PROJECTS (Pin these!)
-💥 Dev-coach-AI — AI growth coach (React + ML inference)
-🏥 Sehat Saathi — SIH HealthTech MVP (React Native + Python)
-⚡ React Portfolio — Client sites on AWS
+building ai systems that feel real, not demo-y
 
-text
+shipping > talking. learning > flexing.
 
-## 📈 STATS DON'T LIE
-📂 12+ Repos - 🔥 21d Streak - 💾 250+ Commits
-⭐ 45+ Stars - 🏆 3 Hackathons - 🤝 Open Collabs
-👀 Profile Views: Loading... (put your count here)
+🧠 current focus (2026 mode 🧃)
 
-text
+🧩 dsa (python) – arrays, strings, recursion, trees, graphs
 
-<div align="center">
-<img src="https://img.shields.io/badge/Currently%20Learning-MLOps%20React%20Native-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white">
-<img src="https://img.shields.io/badge/Open%20To-Internships%20Collabs-00D4AA?style=for-the-badge&logo=handshake&logoColor=white">
-</div>
+🐍 python core – oop, data structures, problem solving
 
-## 🎯 HIRING MANAGERS / COLLABS
-📧 DM: your-email@gmail.com
-💼 LinkedIn: linkedin.com/in/bulbul-singh-chauhan/
-🌐 Portfolio: [Live Sites Link]
-🕐 Response Time: <24hrs ⚡
+🤖 machine learning – preprocessing, training, evaluation
 
-text
+🔗 api integration – fastapi, rest, ai inference apis
 
----
+⚙️ backend basics – auth, dbs, deployment
 
-<p align="center">
-<img src="https://readme-quotify.vercel.app/api?theme=radical&quote=Shipping%20code%20> Shipping%20excuses" />
-</p>
+🛠️ tech i actually use
 
-<div align="center">
-**GEN Z APPROVED • BUILT LIVE JANUARY 2026 🔥**
-</div>
+languages
+
+python (main character energy)
+
+c++ (for dsa brain training)
+
+ai / ml
+
+numpy, pandas
+
+scikit-learn (learning phase)
+
+model inference pipelines
+
+backend / apis
+
+fastapi
+
+rest apis
+
+json, auth basics
+
+frontend 
+
+react / next.js
+
+🔥 projects i'm proud of
+
+dev-coach-ai – ai-powered growth coach (python + ml + react)
+
+sehat saathi – healthtech mvp (ml + react native)
+
+ai api tools – prompt → model → response pipelines
+
+📈 how i learn
+
+code daily (even if small)
+
+understand before copying
+
+dsa > shortcuts
+
+projects that feel engineering-heavy, not just pretty
+
+🤝 open to
+
+ai / ml internships
+
+backend + ai projects
+
+hackathons & cool collabs
+
+📬 reach me
+
+linkedin: https://linkedin.com/in/bulbul-singh-chauhan
+
+email: chauhanbulbulsingh@gmail.com
+
+⭐ building ai skills slowly, properly, and for the long run.
+
+📊 stats but make it aesthetic
+🧩 dsa grind tracker
+arrays        ███████░░░ 70%
+strings       ██████░░░░ 60%
+recursion     █████░░░░░ 50%
+trees         ████░░░░░░ 40%
+graphs        ██░░░░░░░░ 20%
+
+🐍 contribution snake (because why not)
+🧠 current mindset
+
+learning slow. building right. no shortcuts.
+
+🖤 if you scrolled till here, you're elite.
