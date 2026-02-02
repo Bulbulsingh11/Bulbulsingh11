@@ -42,6 +42,10 @@ Bhiwandi, Rajasthan, India • Passionate about ML, healthcare tech, and competi
 </div>
 
 **⚡ Fun Fact**: Balancing late-night DSA grinds with ghazal listening for that perfect flow state. Open to collaborations!
+## 🏅 Achievements
+
+![GitHub for Beginners Badge](https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png)
+
 
 ---
 *Updated: Feb 2026 • 📊 Stats auto-update via GitHub Actions.*
