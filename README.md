@@ -45,6 +45,12 @@ Bhiwandi, Rajasthan, India • Passionate about ML, healthcare tech, and competi
 ## 🏅 Achievements
 
 ![GitHub for Beginners Badge](https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png)
+## 🏆 Certifications & Badges
+
+![GitHub Actions Beginner](github-actions-beginner.png)
+
+**GitHub Actions Beginner Badge**  
+Awarded for successfully completing all tasks in the GitHub Actions Learning repository.
 
 
 ---
