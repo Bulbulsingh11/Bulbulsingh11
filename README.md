@@ -1,57 +1,161 @@
 <div align="center">
 
-<!-- Professional Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Bulbul%20Singh%20Chauhan;AI%20%26%20Data%20Science%20Student;Full-Stack%20Developer;Open%20to%20Internships&font=Fira%20Code&center=true&pause=1000&color=6366F1&width=600" alt="Typing Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Bulbul+Singh+Chauhan+%F0%9F%91%8B;AI+%26+Data+Science+%7C+BCA+3rd+Year;Building+AI+that+actually+solves+problems;SkinAssist+%E2%80%A2+SignBridge+%E2%80%A2+Social+Guardian" alt="Typing SVG" />
 
-**BCA AI & Data Science (2nd Year) | React • Python • DSA | TEN React Intern**  
-Bhiwandi, Rajasthan, India • Passionate about ML, healthcare tech, and competitive programming. Building scalable apps for real-world impact. [cite:20]
+<br/>
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Bulbulsingh11&style=flat-square&color=blueviolet)](https://github.com/Bulbulsingh11)
+**`AI/ML Engineer in the Making · Full-Stack Developer · Open Source Contributor`**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bulbul-singh-chauhan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulbulsingh11)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bulbulsingh@example.com)
 
 </div>
-
-## 📚 About Me
-- **Education**: BCA AI & Data Science, focusing on ML, DSA, and full-stack development.
-- **Experience**: React.js Developer Intern at TEN (3 months) – Built responsive UIs and integrated APIs.
-- **Interests**: Healthcare AI (SIH 2025), LeetCode (500+ problems), Urdu poetry & Hindi cinema.
-- Actively seeking software engineering/ML internships at Google, Microsoft. [user-information]
-
-## 🛠️ Skills
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,java,cpp,sql,mongodb,aws,git,figma,drawio&perline=6" alt="Tech Skills" width="500" />
-</div>
-
-## 🔥 Featured Projects
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Sehat Saathi** | Offline-first telemedicine app for rural India (SIH 2025 Hackathon). AI triage, multilingual, ASHA worker-friendly. | React Native, Node.js, Python ML, SQL | [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Bulbulsingh11/sehat-saathi) [![Demo](https://img.shields.io/badge/Demo-Live-orange?logo=vercel)](https://sehat-saathi.vercel.app) |
-| **DSA Solutions** | 500+ LeetCode problems with optimized Java/C++/Python solutions. Time complexity analysis included. | Java, C++, Python | [![Repo](https://img.shields.io/badge/DSA-Repo-green?logo=leetcode)](https://github.com/Bulbulsingh11/dsa-solutions) |
-| **Personal Portfolio** | Modern React site with Tailwind CSS, deployed on Vercel. Showcases projects & blog. | React, Tailwind, Framer Motion | [![Live](https://img.shields.io/badge/Portfolio-Live-purple?logo=react)](https://bulbulsingh11.vercel.app) |
-
-## 📈 GitHub Stats
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulbulsingh11&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bulbulsingh11&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-</div>
-
-## 📫 Let's Connect
-<div align="center">
-<a href="https://linkedin.com/in/bulbulsingh11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
-<a href="mailto:bulbul@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"/></a>
-<a href="https://bulbulsingh11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square" alt="Portfolio"/></a>
-</div>
-
-**⚡ Fun Fact**: Balancing late-night DSA grinds with ghazal listening for that perfect flow state. Open to collaborations!
-## 🏅 Achievements
-
-![GitHub for Beginners Badge](https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png)
-## 🏆 Certifications & Badges
-
-![GitHub Actions Beginner](github-actions-beginner.png)
-
-**GitHub Actions Beginner Badge**  
-Awarded for successfully completing all tasks in the GitHub Actions Learning repository.
-
 
 ---
-*Updated: Feb 2026 • 📊 Stats auto-update via GitHub Actions.*
+
+## 👩‍💻 About Me
+
+I'm a **3rd-year BCA (AI & Data Science)** student at KR Mangalam University, Gurgaon, building AI-powered applications that solve real problems — especially in healthcare and accessibility.
+
+- 🔬 Currently sharpening **DSA + ML fundamentals** for product-based internships
+- 🧠 Hands-on with **LangChain, RAG pipelines, DINOv2, MediaPipe** — not just theoretically
+- 🏆 **SIH Semi-Finalist** | **Top 11 @ AceHack 5.0** (out of 100+ teams)
+- 🌱 2x merged PRs in **GSSoC '26** (InternHack — full-stack feature + UI fix)
+- 🎯 Targeting AI/ML Engineer roles at product-based companies (Zomato · Blinkit · Zepto · Swiggy)
+- 💬 Ask me about **FastAPI, GradCAM, LangChain, React Native, or skin disease classification**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Tools & Infra**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 [SkinAssist](https://github.com/Bulbulsingh11/skinassist) — *See it early. Treat it right.*
+> AI-powered skin disease detection app built and deployed during a hackathon.
+
+- **DINOv2** fine-tuned model (`jayanth2002/dinov2-base-finetuned-SkinDisease`) — 31 classes, **95.6% accuracy**
+- **GradCAM heatmaps** via forward hooks for explainability
+- React Native frontend with **English/Hindi bilingual toggle** + voice readout
+- FastAPI backend · SQLAlchemy · Twilio SMS · WebSocket live scanning · Doctor booking
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![DINOv2](https://img.shields.io/badge/-DINOv2-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+---
+
+### 🤟 [SignBridge](https://github.com/Bulbulsingh11/signbridge) — *63 million voices. Finally heard.*
+> Real-time two-way ISL (Indian Sign Language) communication bridge. Built for an international hackathon.
+
+- **MediaPipe** gesture recognition → real-time ISL translation
+- **Claude Sonnet API** for natural language generation from gestures
+- Flask backend · React/Vite frontend · Chrome extension
+- Bidirectional — works for both signers and non-signers
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+---
+
+### 🛡️ Social Guardian — *Top 11 @ AceHack 5.0 (100+ teams)*
+> Online harassment detector with automated legal PDF report generation.
+
+- **LangChain + Detoxify** pipeline for multilingual harassment detection
+- Auto-generates structured legal PDF reports for victims
+- Built during AceHack 5.0 — Top 11 finish
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 🤖 AI LinkedIn Profile Generator
+> Full-stack SaaS tool for generating optimized LinkedIn profiles using AI.
+
+- **Next.js 14** · Supabase · OpenAI API · Tailwind CSS · Vercel
+- Authentication, profile storage, and one-click generation
+
+---
+
+## 🏆 Achievements & Recognition
+
+| 🏅 | Achievement |
+|----|-------------|
+| 🥇 | **SIH Semi-Finalist** — Smart India Hackathon |
+| 🏆 | **Top 11 @ AceHack 5.0** out of 100+ teams (Social Guardian) |
+| 🔀 | **2x Merged PRs** in GSSoC '26 via InternHack (full-stack cover letter feature + empty-state UI fix) |
+| 💼 | **React.js Intern** @ The Entrepreneurship Network |
+| 📜 | Verizon Virtual Experience via Forage |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bulbulsingh11&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/Bulbulsingh11)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulbulsingh11&layout=compact&theme=transparent&hide_border=true)](https://github.com/Bulbulsingh11)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bulbulsingh11&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **AI/ML or Full-Stack internships** at product-based companies. If you're building something interesting — let's talk!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bulbul-singh-chauhan)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Bulbulsingh11)
+
+</div>
+
+---
+
+<div align="center">
+
+*⚡ Currently: DSA grind by day · Ghazal playlists by night · Building things that matter always.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bulbulsingh11&style=flat-square&color=6366F1)
+
+</div>
